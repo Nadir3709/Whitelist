@@ -2,4 +2,4 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Nadir3709/Whitelist/main/Main"))()
 
 -- Check Whitelist
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Nadir3709/Whitelist/main/CheckingWhitelistt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Nadir3709/Whitelist/main/CheckingWhitelisttt"))()
